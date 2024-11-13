@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Flock_Hmw1/1.0.0": {
+        "runtime": {
+          "Flock_Hmw1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flock_Hmw1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

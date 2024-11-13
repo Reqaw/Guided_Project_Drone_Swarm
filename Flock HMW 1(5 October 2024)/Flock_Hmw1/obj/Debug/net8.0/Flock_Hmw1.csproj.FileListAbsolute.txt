@@ -1,0 +1,14 @@
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\bin\Debug\net8.0\Flock_Hmw1.exe
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\bin\Debug\net8.0\Flock_Hmw1.deps.json
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\bin\Debug\net8.0\Flock_Hmw1.runtimeconfig.json
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\bin\Debug\net8.0\Flock_Hmw1.dll
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\bin\Debug\net8.0\Flock_Hmw1.pdb
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.AssemblyInfoInputs.cache
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.AssemblyInfo.cs
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.csproj.CoreCompileInputs.cache
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.dll
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\refint\Flock_Hmw1.dll
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.pdb
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\Flock_Hmw1.genruntimeconfig.cache
+C:\Users\reqaw\source\repos\Flock_Hmw1\Flock_Hmw1\obj\Debug\net8.0\ref\Flock_Hmw1.dll

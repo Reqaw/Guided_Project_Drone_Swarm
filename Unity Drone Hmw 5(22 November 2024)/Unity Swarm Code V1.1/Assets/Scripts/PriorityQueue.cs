@@ -1,4 +1,3 @@
-// PriorityQueue.cs
 using System.Collections.Generic;
 
 public class PriorityQueue<T>

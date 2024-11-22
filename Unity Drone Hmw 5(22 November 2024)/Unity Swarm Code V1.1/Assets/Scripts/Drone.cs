@@ -1,5 +1,4 @@
-﻿//Drone made for search and rescue
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

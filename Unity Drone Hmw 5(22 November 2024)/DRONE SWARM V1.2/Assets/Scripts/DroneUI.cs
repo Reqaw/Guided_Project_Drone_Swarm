@@ -182,7 +182,6 @@ public class DroneUI : MonoBehaviour
     {
         if (int.TryParse(StartDrone.text, out int startID) && int.TryParse(EndDrone.text, out int endID))
         {
-            UnityEngine.Debug.Log($"Start Drone ID: {startID}, End Drone ID: {endID}");
             List<int> path = GraphComms.FindShortestPath(startID, endID);
             if (path != null)
             {

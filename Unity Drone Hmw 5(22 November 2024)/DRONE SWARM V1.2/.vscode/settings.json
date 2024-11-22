@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity Swarm Code.sln"
+    "dotnet.defaultSolution": "DRONE SWARM V1.2.sln"
 }

@@ -31,6 +31,11 @@ public class MainMenuUI : MonoBehaviour
         SceneManager.LoadSceneAsync("GraphNetworkScene");
     }
 
+    public void FeatureUILoad()
+    {
+        SceneManager.LoadSceneAsync("FeaturesScene");
+    }
+
     public void Exitbtn()
     {
         Application.Quit();

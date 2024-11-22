@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GraphNetworkScene.unity
     guid: ebd8c54367e1bfb4fa4e16ebe8dc3612
+  - enabled: 1
+    path: Assets/Scenes/FeaturesScene.unity
+    guid: 8fb295d628579a1418fb43d83c10a6a7
   m_configObjects: {}

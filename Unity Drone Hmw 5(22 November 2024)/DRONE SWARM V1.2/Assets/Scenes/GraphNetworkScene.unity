@@ -2045,6 +2045,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DroneU: {fileID: 1338058089}
   agentPrefab: {fileID: 2282680443856811223, guid: 7ea1bc319e637c34e972cca9071baf68, type: 3}
+  agents: []
   behavior: {fileID: 11400000, guid: cf64e0c98e649f9459d46bbe9876a64a, type: 2}
   startingCount: 10
   driveFactor: 10
@@ -2054,6 +2055,15 @@ MonoBehaviour:
   highBattery: {fileID: 21300000, guid: 67ccac85fda685f43a134de858bc33b3, type: 3}
   lowBattery: {fileID: 21300000, guid: 043c348db9034ab40ba2c13195df07bf, type: 3}
   FindTXT: {fileID: 0}
+  followCursorButton: {fileID: 0}
+  stopButton: {fileID: 0}
+  followLeaderButton: {fileID: 0}
+  leaderSpeed: 2
+  followerSpeed: 2
+  victim: {fileID: 0}
+  spawnVictimButton: {fileID: 0}
+  messageText: {fileID: 0}
+  victimMovementScript: {fileID: 0}
 --- !u!4 &1772638107
 Transform:
   m_ObjectHideFlags: 0

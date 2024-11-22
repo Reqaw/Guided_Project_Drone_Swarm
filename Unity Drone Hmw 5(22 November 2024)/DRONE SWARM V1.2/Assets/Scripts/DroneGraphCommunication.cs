@@ -7,13 +7,6 @@ public class DroneGraphCommunication
     private Dictionary<int, Drone> droneMap = new Dictionary<int, Drone>();
     private Dictionary<int, List<int>> adjacencyList = new Dictionary<int, List<int>>();
 
-
-    public DroneGraphCommunication()
-    {
-        adjacencyList = new Dictionary<int, List<int>>();
-        droneMap = new Dictionary<int, Drone>();
-    }
-
     // Add a drone to the network
     public void AddDrone(Drone drone)
     {

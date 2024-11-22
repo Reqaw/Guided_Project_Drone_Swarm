@@ -14,6 +14,7 @@ public class Drone : MonoBehaviour
     public float SearchRadius { get; set; } = 100.0f;
     private Renderer droneRenderer; 
 
+
     Flock agentFlock;
     public Flock AgentFlock { get { return agentFlock; } }
 

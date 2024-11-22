@@ -300,23 +300,5 @@ public class Flock : MonoBehaviour
             DroneU.FindShortestPathInNetwork(LowBattNetwork);
         }
     }
-
-    //public void GraphShortestPath()
-    //{
-    //    if (DroneU == null)
-    //    {
-    //        UnityEngine.Debug.LogError("DroneU is not assigned in Flock.");
-    //        return;
-    //    }
-
-    //    UnityEngine.Debug.Log("GraphShortestPath called. Checking HighBattNetwork...");
-    //    bool FoundDrone = DroneU.FindShortestPathInNetwork(HighBattNetwork);
-
-    //    if (!FoundDrone)
-    //    {
-    //        UnityEngine.Debug.Log("No path in HighBattNetwork. Checking LowBattNetwork...");
-    //        DroneU.FindShortestPathInNetwork(LowBattNetwork);
-    //    }
-    //}
 }
 
